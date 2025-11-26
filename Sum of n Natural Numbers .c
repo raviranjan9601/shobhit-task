@@ -1,3 +1,6 @@
+
+//Sum of n Natural Numbers without using scanf
+
 #include <stdio.h>
 int main() {
     int n = 10;

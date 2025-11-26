@@ -1,3 +1,6 @@
+
+//sum of n odd numbers without using scanf
+
 #include <stdio.h>
 int main() {
     int n = 5;
