@@ -9,7 +9,6 @@
         
         printf("Total of 3 subjects:- %.2f\n", sum);
         printf("Percentage of 3 subjects: %.2f%%\n", percentage);
-        //printf("Percentage of 3 subjects:- %.2f\n", percentage);
         printf("Average of 3 Subject:- %.2f\n", average);
         
         return 0;   
